@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdditionCalculator</string>
+    <string name="name">Addition Calculator</string>
+    <string name="firstNumber">First Number</string>
+    <string name="secondNumber">Second Number</string>
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+
+</resources>

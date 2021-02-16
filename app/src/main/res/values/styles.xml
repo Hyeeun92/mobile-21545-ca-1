@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NumberBox">
+        <item name="android:background">@android:color/white</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:layout_width">200dp</item>
+
+    </style>
+</resources>
